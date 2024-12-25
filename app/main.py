@@ -110,3 +110,6 @@ async def set_api_key(new_api_key: str):
 # 启动 FastAPI 应用程序时，可以通过 uvicorn 运行
 # 例如：
 # uvicorn image:app --reload
+print("测试fork")
+
+ 
